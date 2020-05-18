@@ -1,4 +1,0 @@
-sudo cp ./backup/kernel.img /boot/kernel.img
-sudo cp ./backup/kernel7.img /boot/
-sudo cp -rf ./backup/lib/* /lib/
-sudo reboot
